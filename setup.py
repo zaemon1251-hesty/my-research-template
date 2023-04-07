@@ -8,7 +8,7 @@ setup(
     description="Describe Your Cool Project",
     author="",
     author_email="",
-    url="https://github.com/user/project",
+    url="https://github.com/zaemon1251-hesty/research-experimental",
     install_requires=["pytorch-lightning", "hydra-core"],
     packages=find_packages(),
     # use this to customize global commands available in the terminal after installing the package

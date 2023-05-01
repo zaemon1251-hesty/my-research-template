@@ -129,12 +129,13 @@ dmypy.json
 
 ### VisualStudioCode
 .vscode/*
+!.vscode/sftp.json.sample
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-**/.vscode
+# **/.vscode
 
 # JetBrains
 .idea/
